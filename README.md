@@ -1,2 +1,0 @@
-# letsgo
-go programming
